@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 樂瓔珞莊嚴方便品經
+#+DATE: 2015-08-30 20:12:32.533184
+#+PROPERTY: JUAN 0
